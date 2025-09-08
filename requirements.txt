@@ -1,0 +1,8 @@
+numpy==2.3.2
+openai==1.106.1
+pandas==2.3.2
+plotly==6.3.0
+python-dotenv==1.1.1
+scikit_learn==1.7.1
+sentence_transformers==5.1.0
+streamlit==1.41.1
