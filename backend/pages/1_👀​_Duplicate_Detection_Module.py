@@ -51,6 +51,12 @@ class DuplicateDetectionService:
             "sts_score": 91,
             "description": "State-of-the-art embeddings, highest accuracy (3072 dimensions)",
             "provider": "openai"
+        },
+        "text-embedding-3-small": {
+            "dimensions": 1024,
+            "sts_score": 89,
+            "description": "Good balance of performance and speed (1024 dimensions)",
+            "provider": "openai"
         }
     }
     
